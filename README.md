@@ -4,6 +4,7 @@ Here is some rundown of the app.
 
 You can create tasks and add discription, status and priority.
 There are 4 level of prioritys:
+
 1.High
 2.Medium
 3.Low
